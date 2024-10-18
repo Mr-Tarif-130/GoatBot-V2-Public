@@ -37,30 +37,30 @@
   "authorName": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
   "authorFB": "https://www.facebook.com/4S1F.403",
   "vipUser": [
-    "100044327656712",
-    "100083900196039",
-    "100095251515413",
-    "100084942163710",
-    "100073291639820",
-    "100084573213860",
-    "100079631077041",
-    "100087271775565"
+    "61552422054139",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "adminBot": [
-    "100083900196039",
-    "100095251515413",
-    "100044327656712",
-    "100073291639820",
-    "61553911885529"
+    "61552422054139",
+    "61552422054139",
+    "",
+    "",
+    ""
   ],
   "GOD": [
-    "100083900196039",
-    "61553911885529"
+    "61552422054139",
+    "61552422054139"
   ],
   "DEV": [
-    "100083900196039",
-    "100095251515413",
-    "100073291639820"
+    "61552422054139",
+    "61552422054139",
+    "61552422054139"
   ],
   "whiteListMode": {
     "enable": false,
@@ -73,8 +73,8 @@
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   },
-  "nickNameBot": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
-  "prefix": ".",
+  "nickNameBot": "Ꮇʀᵀᴬᴿᴵᶠ~𝙱𝙾𝚃~Ұ₮࿐𝐱130",
+  "prefix": ":",
   "database": {
     "type": "json",
     "uriMongodb": "",
